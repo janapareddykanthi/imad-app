@@ -22,8 +22,9 @@ body {
 
 .container
 {
-    padding-top:25px;
+    padding-top:125px;
     padding-right:70px;
+    padding-left:70px;
     padding-bottom:50px;
     margin:0 auto;
     
